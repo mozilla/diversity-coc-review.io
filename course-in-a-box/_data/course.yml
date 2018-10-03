@@ -1,0 +1,17 @@
+title: Course in a Box
+description: Code of Conduct Assessment
+modules: [about, assessment]
+signups:
+ - name: Geert Hofman
+   image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
+   twitter: GeertHa
+ - name: Dave Cormier
+   image: https://pbs.twimg.com/profile_images/465974023558418434/NYQWX2pm_400x400.jpeg
+   twitter: davecormier
+ - name: Dirk Uys
+   image: http://thebacklog.net/img/profile.jpeg
+   twitter: riskycud
+   github_username: dirkcuys
+ - name: Vanessa Gennarelli
+   image: https://pbs.twimg.com/profile_images/524237611104088064/7t-h08zy_400x400.jpeg
+   twitter: mozzadrella
