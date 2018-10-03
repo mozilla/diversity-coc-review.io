@@ -1,0 +1,3 @@
+[submodule "docs/_includes/diversity"]
+	path = docs/_includes/diversity
+	url = https://github.com/mozilla/diversity/
