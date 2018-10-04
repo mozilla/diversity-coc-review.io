@@ -1,0 +1,12 @@
+---
+title: Purpose Statement
+---
+
+
+
+<hr>
+
+{% capture includeGuts %}
+{% include diversity/evaluation_tools/coc-assessment-tool/purpose-statement.md %}
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}

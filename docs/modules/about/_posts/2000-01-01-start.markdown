@@ -1,17 +1,17 @@
 ---
-title: About Course in a Box
+title: Introduction
 ---
+<img src="{{ site.baseurl }}/img/mozilla-logo.png"
+     alt="Mozilla Logo" style="width: 300px;" />
 
-# Course in a Box
+# Code of Conduct Assessment Tool
 
-Course in a Box consist of 
+This tool was developed by Mozilla, and is a work in progress.
+We welcome all contributions to this [website](https://github.com/mozilla/diversity-coc-review.io), and to the [assessment material](https://github.com/mozilla/diversity/tree/master/evaluation_tools/coc-assessment-tool).
 
- - a tutorial module to guide you through the technical steps for creating your course.
- - a resource module to help you design content, activities, community and feedback for your course.
- - a reference module with some explanation and detail about Course in a Box.
- - a community forum where you can ask questions or share your experience.
+<hr>
 
-The rest of this module will step you through creating your course, adding the modules you want to use and adding and updating content to sections.
-
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+{% capture includeGuts %}
+{% include diversity/evaluation_tools/coc-assessment-tool/about.md %}
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}

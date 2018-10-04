@@ -1,0 +1,10 @@
+---
+title: Scope
+---
+
+<hr>
+
+{% capture includeGuts %}
+{% include diversity/evaluation_tools/coc-assessment-tool/scope.md %}
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}
