@@ -1,7 +1,7 @@
 ---
 title: Encouraged Behaviors
 ---
-
+ENCOURAGED BEHAVIORS
 <hr>
 
 {% capture includeGuts %}

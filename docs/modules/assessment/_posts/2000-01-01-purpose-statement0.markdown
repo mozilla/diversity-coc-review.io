@@ -3,6 +3,7 @@ title: Purpose Statement
 ---
 
 
+# PURPOSE STATEMENT
 
 <hr>
 

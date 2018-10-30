@@ -35,13 +35,13 @@ body{
 
 }
 .sidebar li.active, .sidebar li.active a{
-  background-color:#005e5e;
-  color:#FFFFFF;
+  background-color:#000;
+  color:#fff;
 }
 
 .sidebar li a:hover {
     color: #FFFFFF;
-    background-color: #005e5e;
+    background-color: #000;
 }
 .sidebar li a, .pagination-section a{
   color:#005e5e;
@@ -54,5 +54,31 @@ body{
     margin-top: 60px;
     line-height: 1.5;
     margin-bottom: 0;
+
+}
+body {
+
+    font-size: 20px;
+}
+
+blockquote p{
+
+    font-style: normal;
+    color: #707782;
+    line-height: 1.4;
+}
+
+.navbar-nav > li > a {
+    line-height: 2;
+    padding: 0 1em;
+    font-family: 'Zilla Slab', serif;
+    text-transform: uppercase;
+    transition: all 0.3s linear;
+}
+
+blockquote {
+
+    font-size: initial;
+    font-style: normal;
 
 }
