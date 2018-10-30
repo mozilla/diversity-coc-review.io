@@ -1,7 +1,9 @@
 ---
 title: Responses & Consequences
 ---
-RESPONSES & CONSEQUENCES
+
+# RESPONSES & CONSEQUENCES
+
 <hr>
 
 {% capture includeGuts %}

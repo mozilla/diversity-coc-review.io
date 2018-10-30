@@ -2,6 +2,8 @@
 title: Scope
 ---
 
+# SCOPE
+
 <hr>
 
 {% capture includeGuts %}

@@ -61,7 +61,13 @@ body {
     font-size: 20px;
 }
 
-blockquote p{
+blockquote {
+
+    font-style: normal;
+    color: #707782;
+    line-height: 1.4;
+}
+blockquote p {
 
     font-style: normal;
     color: #707782;
@@ -77,8 +83,9 @@ blockquote p{
 }
 
 blockquote {
-
     font-size: initial;
     font-style: normal;
-
+}
+.content {
+    line-height: 1.6;
 }
