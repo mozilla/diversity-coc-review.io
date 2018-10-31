@@ -1,0 +1,33 @@
+---
+title: Marking
+---
+
+# Marking Grid
+
+<hr>
+
+
+<img src="{{ site.baseurl }}/img/table.png"
+     alt="" />
+
+
+
+**Acceptable (<span style="color:#009900"><em>Green</em></span>)**:
+
+    This CoC contains all of the required elements and
+    often uses details from the Encouraged examples. It may or may not
+    have items from the Additional Elements.
+
+**Needs Improvement (<span style="color:#FADA5E">Yellow<em></em></span>)**:
+
+    This CoC contains most or all of the required
+    elements with a mix of encouraged and discouraged text. It can
+    move to Acceptable status by updating any missing elements and
+    removing discouraged items. One or two red flags in an otherwise
+    acceptable policy would also fall into this category.
+
+**Unacceptable (<span style="color:#992600">Red<em></em></span>)**:
+
+    This CoC is missing significant required elements
+    and/or contains a number of red flags. It should be rebuilt from
+    scratch rather than updated piecemeal.
