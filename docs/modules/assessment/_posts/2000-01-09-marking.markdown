@@ -7,9 +7,7 @@ title: Marking
 <hr>
 
 
-<img src="{{ site.baseurl }}/img/table.png"
-     alt="" />
-
+[Please use a copy of this grid to capture your review.](https://docs.google.com/document/d/1ofvyFjvmS3XrJ4kz1HSv_ipeTpNqG63iujGIbilUMSk/edit#)
 
 
 **Acceptable (<span style="color:#009900"><em>Green</em></span>)**:
